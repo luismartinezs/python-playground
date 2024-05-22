@@ -85,3 +85,9 @@ except ValueError:
     print("Error: Invalid input. Please enter a number.")
 except Exception as e:
     print(f"Error: {e}")
+
+
+num = list(range(1, 21))
+squares = [num**2 for num in num if num % 2 == 0]
+
+print(squares)

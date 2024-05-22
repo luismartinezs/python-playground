@@ -6,7 +6,7 @@
   },
   "editor.inlineSuggest.enabled": true,
   "editor.lineHeight": 17,
-  "breadcrumbs.enabled": false,
+  "breadcrumbs.enabled": true,
   "files.autoSave": "afterDelay",
   "jupyter.themeMatplotlibPlots": true,
   "jupyter.widgetScriptSources": ["unpkg.com", "jsdelivr.com"],
